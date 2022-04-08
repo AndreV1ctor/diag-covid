@@ -10,10 +10,11 @@ Visando resolver esse problema e ajudar as pessoas com informações válidas, p
 ## Funcionamento do Script
 O Script é formado por três arquivos:
 
-aplicação_principal
-modulo_execucao
-modulo_mensagens
-Aplicação Principal
+- aplicação_principal
+- modulo_execucao
+- modulo_mensagens
+
+## Aplicação Principal
 É o script que contém a lógica de programação básica com a ordem de execução dos comandos, basicamente, o esqueleto que irá executar todos os demais Scripts.
 
 ## Módulo de Execução
