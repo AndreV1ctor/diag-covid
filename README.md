@@ -1,4 +1,4 @@
-# Script Diagnóstico de Covid-19
+# Script baseado em Diagnosticar casos de Covid-19.
 Script criado em Python e que ajuda no diagnóstico da Covid-19.
 
 Muitas pessoas possuem sintomas leves e não querem ou não podem sair de casa e ir até um ponto de saúde com medo de realmente contrair o vírus e outros problemas de saúde.
