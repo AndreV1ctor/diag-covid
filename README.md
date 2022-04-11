@@ -37,3 +37,4 @@ Sou um pequeno gafanhoto, pense antes de criticar de forma não-construtiva.
 - Segunda Melhoria: Ajuste no Script e criação do arquivo de log de erros para acompanhar a usabilidade e implementar melhorias baseadas nos erros apresentados durante uso.
 
 - Terceira Melhoria: Ajuste no Script para não aceitar números e caracteres especiais no campo nome.
+ :D
